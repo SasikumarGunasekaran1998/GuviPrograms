@@ -1,7 +1,7 @@
 n,k = input().split() #Getting the input
 n = int(n)
 k = int(k)
-for i in range (n,(k+1),1):
+for i in range (n,(k),1):
    sum = 0
    temp = i
    check = i
