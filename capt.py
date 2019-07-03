@@ -1,3 +1,3 @@
-string=input()
-capt=inputnum.title()
+string = input()
+capt = string.title()
 print(capt)
